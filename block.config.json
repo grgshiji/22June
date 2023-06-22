@@ -1,1 +1,16 @@
-{"name":"22June","type":"package","blockId":"R2qPUHKLuGxIjKEjYdH4G","source":{"https":null,"ssh":null,"branch":"block_22June"},"parentBlockIDs":[],"isPublic":true,"supportedAppblockVersions":["1.0.0"],"repoType":"mono"}
+{
+  "name": "22June",
+  "type": "package",
+  "blockId": "R2qPUHKLuGxIjKEjYdH4G",
+  "source": {
+    "https": "https://github.com/grgshiji/22June.git",
+    "ssh": "git@github.com:grgshiji/22June.git",
+    "branch": "block_22June"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
